@@ -1,0 +1,15 @@
+C:\dev\Carol\backend\Pets\InfraData\bin\Debug\net6.0\InfraData.deps.json
+C:\dev\Carol\backend\Pets\InfraData\bin\Debug\net6.0\InfraData.dll
+C:\dev\Carol\backend\Pets\InfraData\bin\Debug\net6.0\ref\InfraData.dll
+C:\dev\Carol\backend\Pets\InfraData\bin\Debug\net6.0\InfraData.pdb
+C:\dev\Carol\backend\Pets\InfraData\bin\Debug\net6.0\Domain.dll
+C:\dev\Carol\backend\Pets\InfraData\bin\Debug\net6.0\Domain.pdb
+C:\dev\Carol\backend\Pets\InfraData\obj\Debug\net6.0\InfraData.csproj.AssemblyReference.cache
+C:\dev\Carol\backend\Pets\InfraData\obj\Debug\net6.0\InfraData.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Carol\backend\Pets\InfraData\obj\Debug\net6.0\InfraData.AssemblyInfoInputs.cache
+C:\dev\Carol\backend\Pets\InfraData\obj\Debug\net6.0\InfraData.AssemblyInfo.cs
+C:\dev\Carol\backend\Pets\InfraData\obj\Debug\net6.0\InfraData.csproj.CoreCompileInputs.cache
+C:\dev\Carol\backend\Pets\InfraData\obj\Debug\net6.0\InfraData.csproj.CopyComplete
+C:\dev\Carol\backend\Pets\InfraData\obj\Debug\net6.0\InfraData.dll
+C:\dev\Carol\backend\Pets\InfraData\obj\Debug\net6.0\ref\InfraData.dll
+C:\dev\Carol\backend\Pets\InfraData\obj\Debug\net6.0\InfraData.pdb

@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Produto]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [Titulo] NVARCHAR(80) NOT NULL, 
+    [Descricao] NVARCHAR(80) NOT NULL,
+    [Preco] DECIMAL NOT NULL, 
+    [Imagem] VARBINARY(MAX) NULL
+)

@@ -1,0 +1,6 @@
+C:\dev\Carol\backend\Pets\Database\bin\Debug\Database.dacpac
+C:\dev\Carol\backend\Pets\Database\bin\Debug\Database.dll
+C:\dev\Carol\backend\Pets\Database\bin\Debug\Database.pdb
+C:\dev\Carol\backend\Pets\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+C:\dev\Carol\backend\Pets\Database\obj\Debug\Database.dll
+C:\dev\Carol\backend\Pets\Database\obj\Debug\Database.pdb

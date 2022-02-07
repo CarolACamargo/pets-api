@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3f80634-5430-42a7-b755-408668f27094": {
+      "ProjectGuid": "b3f80634-5430-42a7-b755-408668f27094",
+      "DisplayName": "Pets",
+      "ColorIndex": 0
+    },
+    "23468711-f75f-4bd8-9056-c43f2006d909": {
+      "ProjectGuid": "23468711-f75f-4bd8-9056-c43f2006d909",
+      "DisplayName": "InfraData",
+      "ColorIndex": 1
+    },
+    "f9a84634-7975-4c66-9fe5-865f505cf54a": {
+      "ProjectGuid": "f9a84634-7975-4c66-9fe5-865f505cf54a",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "04719475-935d-494b-be64-5559cab19cee": {
+      "ProjectGuid": "04719475-935d-494b-be64-5559cab19cee",
+      "DisplayName": "Database",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
